@@ -51,7 +51,7 @@ export default function BookingForm({availableTimes, dispatch, submitForm}) {
           </div>
           <div className="seperate">
             <label htmlFor="contact-number">Contact Number</label>
-            <input type="text" id="contact-number" name="contactNumber" placeholder="123-456-7890"
+            <input type="number" id="contact-number" name="contactNumber" placeholder="123-456-7890"
             value={formData.contactNumber} onChange={handleFormChange} 
             pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" />
           </div>

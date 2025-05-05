@@ -18,7 +18,7 @@ export default function Testimonials() {
             <div className="testimonial">
                 <img className="reviewer-img" src="/images/reviewer2.png" alt="greek salad"/>
                 <div className="name-rating">
-                    <p className="reviewer-name">John Doe</p>
+                    <p className="reviewer-name">John Herry</p>
                     <p className="reviewer-rating">5/5</p>
                 </div>
                 <div className="review-text">
@@ -30,7 +30,7 @@ export default function Testimonials() {
             <div className="testimonial">
                 <img className="reviewer-img" src="/images/reviewer3.png" alt="greek salad"/>
                 <div className="name-rating">
-                    <p className="reviewer-name">John Doe</p>
+                    <p className="reviewer-name">Helen Doe</p>
                     <p className="reviewer-rating">5/5</p>
                 </div>
                 <div className="review-text">
